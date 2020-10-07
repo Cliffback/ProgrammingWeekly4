@@ -72,6 +72,7 @@ int findPairs()
 void Task4()
 {
 	system("CLS");
+	srand(time(nullptr));
 	int rolls = 0;
 
 	while (true)
